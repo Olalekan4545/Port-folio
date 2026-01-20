@@ -25,7 +25,7 @@ I calculate key performance indicators such as total sales, growth rates, averag
 This dataset contains supply chain information covering products, SKUs, transportation modes, carriers, pricing, shipping costs, stock levels, and defect rates. The dataset was analyzed to understand supply chain performance, identify cost and efficiency issues, monitor inventory levels, and support better operational and logistics decision-making.
 ![image](Supply_Chain_Dashboard.png) 
 
-[Read More](https:www.github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis/)
+[Read More](README.md)
 
 
 
