@@ -27,6 +27,37 @@ This dataset contains supply chain information covering products, SKUs, transpor
 
 [Read More](https://github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis.git)
 
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailtoAfolakemiayomiposi@gmail.com">Afolakemiayomiposi@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 810-653-1408</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://olalekan.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://linkedin.com/in/afolakemi-olalekan-145174253">My LinkedIn Profile</a></td>
+    </tr>
+    <tr>     
+  </tbody>
+</table>
+
+
+
 
 
 
