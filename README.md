@@ -11,7 +11,7 @@ I clean and organize raw data by handling duplicates, missing values, incorrect 
 I create simple and clear dashboards and reports using charts, tables, and KPIs to communicate insights effectively to both technical and non-technical audiences.
 
 ### Business Metrics & Calculations
-I calculate key performance indicators such as total sales, growth rates, averages, and comparisons (MoM, YoY) to track performance and  and measure results.
+I calculate key performance indicators such as total revenue,total Price, the shipping cost, stock level and average defect rate to track performance.
 
 ### 🛠 Tools I Use
 - Microsoft Excel (Pivot Tables, formulas, data analysis)
@@ -22,8 +22,8 @@ I calculate key performance indicators such as total sales, growth rates, averag
 *A glimpse of some of the projects I've been working on.*
 
 **Supply Chain Dashboard**
-This dataset contains supply chain information covering products, SKUs, transportation modes, carriers, pricing, shipping costs, stock levels, and defect rates. The dataset was analyzed to understand supply chain performance, identify cost and efficiency issues, monitor inventory levels, and support better operational and logistics decision-making.
 ![image](Supply_Chain_Dashboard.png) 
+This dataset contains supply chain information covering products, SKUs, transportation modes, carriers, pricing, shipping costs, stock levels, and defect rates. The dataset was analyzed to understand supply chain performance, identify cost and efficiency issues, monitor inventory levels, and support better operational and logistics decision-making.
 
 [Read More](https://github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis.git)
 
