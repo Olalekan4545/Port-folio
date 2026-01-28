@@ -21,11 +21,19 @@ I calculate key performance indicators such as total revenue,total Price, the sh
 ### MY PORTFOLIO 
 *A glimpse of some of the projects I've been working on.*
 
+**Electronic Sales Performance Dashboard**
+![image](Electronic_Dasboard.png) 
+This Dashboard was developed with Powerbi to analyse electronics sales, profitability, product performance,regional and time-based trends in order to provide business stakeholders with insights to make data-driven decisions by tracking key business metrics over time.
+
+
+[Read More](https://github.com/Olalekan4545/Electronic-Sales-Performance-Dashboard.git)
+
 **Supply Chain Dashboard**
 ![image](Supply_Chain_Dashboard.png) 
 This dataset contains supply chain information covering products, SKUs, transportation modes, carriers, pricing, shipping costs, stock levels, and defect rates. The dataset was analyzed to understand supply chain performance, identify cost and efficiency issues, monitor inventory levels, and support better operational and logistics decision-making.
 
 [Read More](https://github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis.git)
+
 
 ## CONTACT DETAILS
 
