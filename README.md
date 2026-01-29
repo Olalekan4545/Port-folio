@@ -7,11 +7,9 @@ Hello! I'm Olalekan Afolakemi 🤓, a data analyst, with hands-on experience in 
 ###  Data Cleaning & Preparation
 I clean and organize raw data by handling duplicates, missing values, incorrect formats, and inconsistencies to ensure data is ready for analysis.
 
+
 ### Data Visualization & Reporting
 I create simple and clear dashboards and reports using charts, tables, and KPIs to communicate insights effectively to both technical and non-technical audiences.
-
-### Business Metrics & Calculations
-I calculate key performance indicators such as total revenue,total Price, the shipping cost, stock level and average defect rate to track performance.
 
 ### 🛠 Tools I Use
 - Microsoft Excel (Pivot Tables, formulas, data analysis)
