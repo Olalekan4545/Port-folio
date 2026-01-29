@@ -22,7 +22,7 @@ I calculate key performance indicators such as total revenue,total Price, the sh
 *A glimpse of some of the projects I've been working on.*
 
 **Electronic Sales Performance Dashboard**
-![image](Electronic_Sales_Dashboard.png) 
+![image](Electronic_Dashboard.png) 
 This Dashboard was developed with Powerbi to analyse electronics sales, profitability, product performance,regional and time-based trends in order to provide business stakeholders with insights to make data-driven decisions by tracking key business metrics over time.
 
 
