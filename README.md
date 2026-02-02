@@ -33,6 +33,14 @@ This dataset contains supply chain information covering products, SKUs, transpor
 [Read More](https://github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis.git)
 
 
+**D-LITE-ELECTRONICS-LTD-PERFORMANNCE-DASHBOARD**
+![image](Dlinks_Electronic_Dashboard.png) 
+This project analyzes 6 months of **Electronics Sales data** The analysis focuses on regional sales density in **Nigeria**,the goal was to transform raw sales data into an interactive decision-making tool that tracks  product profitability, peak Busiest Day trends, staff performance, customer value, and operational timing  to assist stakeholders in strategic decision-making.
+
+
+[Read More](https://github.com/Olalekan4545/D-LITE-ELECTRONICS-LTD-PERFORMANNCE-DASHBOARD.git)
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
