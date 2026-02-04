@@ -26,11 +26,30 @@ This Dashboard was developed with Powerbi to analyse electronics sales, profitab
 
 [Read More](https://github.com/Olalekan4545/Electronic-Sales-Performance-Dashboard.git)
 
+
+
+
+
 **Supply Chain Dashboard**
 ![image](Supply_Chain_Dashboard.png) 
 This dataset contains supply chain information covering products, SKUs, transportation modes, carriers, pricing, shipping costs, stock levels, and defect rates. The dataset was analyzed to understand supply chain performance, identify cost and efficiency issues, monitor inventory levels, and support better operational and logistics decision-making.
 
+
 [Read More](https://github.com/Olalekan4545/Supply-Chain-Shipping-Tracker-Analysis.git)
+
+
+
+
+**Palmoria-Workforce-Compensation-and-Diversity-Insights**
+![image](Palmoria_Dashboard.png) 
+This project provides a granular analysis into the workforce structure of Palmoria. As a Data Analyst, my goal was to evaluate how compensation is distributed across the organization and to identify potential gaps in gender diversity and pay equity.
+
+By analyzing salary, bonuses, and performance ratings, this dashboard serves as a strategic tool for leadership to ensure fair treatment and optimized budget allocation across all regions and departments.
+
+
+
+[Read More](https://github.com/Olalekan4545/Palmoria-Workforce-Compensation-and-Diversity-Insights.git)
+
 
 
 **D-LITE-ELECTRONICS-LTD-PERFORMANNCE-DASHBOARD**
