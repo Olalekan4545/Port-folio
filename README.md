@@ -67,7 +67,7 @@ This project analyzes 6 months of **Electronics Sales data** The analysis focuse
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailtoAfolakemiayomiposi@gmail.com">Afolakemiayomiposi@gmail.com</a></td>
+      <td><a href="mailto:Afolakemiayomiposi@gmail.com">Send me a Mail</a></td>
     </tr>
     <tr>
       <td>📞</td>
