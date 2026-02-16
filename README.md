@@ -93,7 +93,7 @@ This project present a Comprehensive SQL-based analysis of KMS Sales Operations,
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://olalekan.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1YBG6aHPATU0biTRJLpCIxfFs_GmNLXtu/view?usp=sharing">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
