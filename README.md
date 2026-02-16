@@ -60,6 +60,20 @@ This project analyzes 6 months of **Electronics Sales data** The analysis focuse
 [Read More](https://github.com/Olalekan4545/D-LITE-ELECTRONICS-LTD-PERFORMANNCE-DASHBOARD.git)
 
 
+**Kultra Mega Stores (KMS) Shipping Cost and Logistics Customer Analysis**
+
+
+
+![image](Buttom_10_customers.png) ![image](Top3_&_buttom3_sales.png)
+
+This project present a Comprehensive SQL-based analysis of KMS Sales Operations, which focus on the relationship between shipping cost,order of priority,cost optimization, customer and segment-level sales performannces. This analysis will enable kms makes informed descision about logistics strategy, customer engagement and revenue growth.
+
+
+
+[Read More](https://github.com/Olalekan4545/Kultra-Mega-Stores-Sql-Analysis.git)
+
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
