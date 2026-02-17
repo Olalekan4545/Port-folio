@@ -1,4 +1,5 @@
 title:  olalekan Afolakemi
 logo: Afolakemi.png
 Description:  Data Analyst Portfolio | Excel, Power Bi, SQL
-remote_theme: daattali/beautiful-jekyll@master
+theme: jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes@4.24.0
