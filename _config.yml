@@ -1,5 +1,69 @@
 
-title:  olalekan Afolakemi
-logo: Afolakemi.png
-Description:  Data Analyst Portfolio | Excel, Power Bi, SQL
-theme:  jekyll-theme-cayman
+site: "Afolakemi Olalekan Portfolio"
+title: "Afolakemi Olalekan Portfolio"
+description: " Data Analyst Portfolio | Excel, Power Bi, SQL"
+baseurl: ""
+url: "https://olalekan4545.github.io"
+
+author:
+  name: "Afolakemi Olalekan"
+  email: "Afolakemiayomiposi@gmail.com"
+
+github:
+  username: "Olalekan4545"
+
+linkedin: "afolakemi-olalekan-145174253"
+
+theme: "al-folio"
+prefer_dark_theme: false
+
+colors:
+  primary: "#2c3e50"
+  secondary: "#e74c3c"
+  accent: "#3498db"
+  success: "#27ae60"
+  warning: "#f39c12"
+  danger: "#c0392b"
+  light: "#ecf0f1"
+  dark: "#2c3e50"
+
+footer_text: "© 2026 Afolakemi Olalekan • Powered by al-folio"
+
+collections:
+  projects:
+    output: true
+    permalink: "/projects/:path/"
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-email-protect
+  - jekyll-imagemagick
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-github-metadata
+
+imagemagick:
+  enabled: true
+  quality: 75
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+include: ['_pages']
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
+
+sass:
+  style: compressed
+
+social:
+  email: "Afolakemiayomiposi@gmail.com"
+  github: "Olalekan4545"
+  linkedin: "afolakemi-olalekan-145174253"
