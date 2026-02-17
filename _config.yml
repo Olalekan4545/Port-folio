@@ -1,4 +1,16 @@
-title:  olalekan Afolakemi
-logo: Afolakemi.png
-Description:  Data Analyst Portfolio | Excel, Power Bi, SQL
-theme:  jekyll-theme-cayman
+
+title: Olalekan Afolakemi
+author: Olalekan Afolakemi
+
+
+avatar:  "Afolakemi.png"
+avatar_circle: true                
+
+
+description: Data Analyst | Power BI | Excel | SQL
+
+
+social-network-links:
+ 📧 "[Click here to send me an email](mailto:Afolakemiayomiposi@gmail.com)"
+ 🔗 "[Linkdin_Profile](https://linkedin.com/in/afolakemi-olalekan-145174253)"
+ 💻 "[my Github profile](https://github.com/Olalekan4545)"
