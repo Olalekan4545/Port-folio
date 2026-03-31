@@ -93,7 +93,7 @@ This project present a Comprehensive SQL-based analysis of KMS Sales Operations,
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://drive.google.com/file/d/1Jvr5g1I4m6S0agEyc9Ii2wVfFXAQdS7W/view?usp=drive_link">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/1IPrrwX4F2d5dlDdMQoQDFBmyoK3eE9Hu/view?usp=drive_link">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
