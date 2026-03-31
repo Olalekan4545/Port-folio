@@ -1,5 +1,5 @@
 ### ABOUT ME
-Hello! I'm Olalekan Afolakemi 🤓, a data analyst, with hands-on experience in cleaning, analyzing, and visualizing data using tools like Excel, Power BI, and SQL. I enjoy working with raw data, transforming it into meaningful insights, and presenting results in a clear and simple way.
+I am Olalekan Afolakemi, a data analyst with hands-on experience in cleaning, analyzing, and visualizing data using tools such as Excel, Power BI, and SQL. I have worked on a range of data analytics projects across different industries, showcasing my versatility in handling diverse datasets and solving business problems. I enjoy working with raw data, transforming it into meaningful insights, and presenting results in a clear and simple way to support data-driven decision-making.
 
 ### WHAT I DO
 *As a data analyst* I analyze datasets to uncover trends, patterns, and insights that support better decision-making. I work with structured data and focus on accuracy, clarity, and relevance.
