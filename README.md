@@ -19,6 +19,15 @@ I create simple and clear dashboards and reports using charts, tables, and KPIs 
 ### MY PORTFOLIO 
 *A glimpse of some of the projects I've been working on.*
 
+**Airline Revenue Travel-Analytics Dashboard**
+![image](Overview.png)
+
+The Airline Revenue & Travel Analytics Dashboard was developed to analyze airline performance, route profitability, traveler behavior, and booking channel effectiveness. The dashboard provides insights into revenue drivers,traveler behavior, route performance, and booking channel effectiveness. The dashboard transforms raw booking and travel data into actionable insights that support revenue growth, route optimization, and demand planning decisions.
+
+[Read More](https://github.com/Olalekan4545/Airline-Revenue-Travel-Analytics-Dashboard.git)
+
+
+
 **Electronic Sales Performance Dashboard**
 ![image](Electronic_Dashboard.png) 
 This Dashboard was developed with Powerbi to analyse electronics sales, profitability, product performance,regional and time-based trends in order to provide business stakeholders with insights to make data-driven decisions by tracking key business metrics over time.
