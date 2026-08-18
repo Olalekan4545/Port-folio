@@ -28,12 +28,11 @@ The Airline Revenue & Travel Analytics Dashboard was developed to analyze airlin
 
 
 
-**Electronic Sales Performance Dashboard**
-![image](Electronic_Dashboard.png) 
-This Dashboard was developed with Powerbi to analyse electronics sales, profitability, product performance,regional and time-based trends in order to provide business stakeholders with insights to make data-driven decisions by tracking key business metrics over time.
+**Legal Operation Performance Analysis Dashboard**
+![image](Legal_Operation_Performance_Dashboard.png) 
+The Legal Operations Performance Dashboard is an interactive Power BI report developed to analyze the operational, financial, and client performance of a fictional law firm. The dashboard enables stakeholders to monitor key business metrics, evaluate legal case performance, assess lawyer productivity, and identify opportunities to improve profitability and operational efficiency.
 
-
-[Read More](https://github.com/Olalekan4545/Electronic-Sales-Performance-Dashboard.git)
+[Read More](https://github.com/Olalekan4545/Legal-Operations-Performance-Analysis-Dashboard.git)
 
 
 
