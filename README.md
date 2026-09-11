@@ -17,7 +17,17 @@ I create simple and clear dashboards and reports using charts, tables, and KPIs 
 - SQL (basic data querying)
 
 ### MY PORTFOLIO 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've been working on. *
+
+**E-Commerce-Sales-Transaction-Analysis**
+![image](E-commerce_Sale_&_Transaction_Analysis_Dashboard)
+
+The project focuses on analyzing e-commerce sales and transaction data to uncover insights into revenue performance, product and customer behavior, sales trends, geographical performance, cancellations, and unusual transactions.
+
+The project followed an end-to-end data analytics workflow, starting with data exploration to Data cleaning in Excel and progressing to data transformation, analysis, DAX calculations, and interactive dashboard development in Power BI.
+
+[Read More](https://github.com/Olalekan4545/E-Commerce-Sales-Transaction-Analysis.git)
+
 
 **Airline Revenue Travel-Analytics Dashboard**
 ![image](Overview.png)
